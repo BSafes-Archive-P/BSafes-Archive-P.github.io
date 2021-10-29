@@ -58,6 +58,16 @@ Fall 10-3-2021
 {: .no_toc }
 *Babasaheb Bhimrao Ambedkar University*, sksonker@yahoo.co.in
 
+<div class="youtube-container">
+<iframe width="100%" src="https://www.youtube.com/embed/3Ya341o33yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube-video"></iframe>
+</div>
+**Video:** University of Nebraska Lincoln Campus Video Tour 
+
+Aslam, Sana and Sonkar, Sharad Kumar, "Platforms and Tools used for Online Learning all over the World during Covid-19: A Study" (2021). *Library Philosophy and Practice (e-journal).* 6205. https://digitalcommons.unl.edu/libphilprac/6205
+{: .fs-2}
+
+1. TOC
+{:toc}
 
 ### Sana Aslam
 {: .no_toc }
