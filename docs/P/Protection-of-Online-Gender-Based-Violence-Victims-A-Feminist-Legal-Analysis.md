@@ -54,6 +54,7 @@ Volume 1 Number 2, Article 6
 *Universitas Indonesia*, giselaviolin 'at' gmail.com
 
 ### Yvonne Kezia Nafi<sup>2</sup>
+{: .no_toc }
 *Universitas Indonesia*, yvonne.kezia 'at' ui.ac.id 
 
 <div class="youtube-container">
